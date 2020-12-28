@@ -1,5 +1,5 @@
 # Portfolio
-This is my basic portfolio website.
+This is my basic portfolio website build using HTML, SASS and JS.
  
 ## Build a Portfolio
 I have build a responsive website that will display images. links and description.
