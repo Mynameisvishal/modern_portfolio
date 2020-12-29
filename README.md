@@ -13,3 +13,5 @@ Checking it in Master Branch
 * img folder
 * dist folder
 * package.json
+
+Adding files before rebasing conflicts
