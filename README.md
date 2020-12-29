@@ -1,4 +1,4 @@
-# My Portfolio
+# Portfolio
 This is my basic portfolio website build using HTML, SASS and JS.
  
 ## Build a Portfolio
@@ -15,4 +15,4 @@ Checking it in Master Branch
 * dist folder
 * package.json
 
-Adding files from master branch after creating branch
+Adding files before rebasing conflicts
